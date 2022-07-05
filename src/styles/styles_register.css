@@ -1,0 +1,47 @@
+html, body{
+    text-align: center;
+    margin: 0%;
+    margin-left: 0%;
+    background-image: url("../background.png");
+    background-size: 110% 110%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    object-fit: cover;
+    background-origin: padding-box;
+    background-position-y: -80px;
+    background-position-x: -9px;
+    font-family: '/public/Myriad Pro Regular/Myriad Pro Regular.ttf';
+
+}
+
+.register {
+    text-align: center;
+    align-content: center;
+    align-items: center;
+    justify-content: flex;
+    padding-left: 25%;
+}
+
+.register__live{
+    justify-content: center;
+    background-color: rgb(236, 99, 42);
+    width: 40%;
+}
+
+.register__livecourse{
+    
+    color: white;
+    font-size: 52px;
+    padding: 0%;
+    border-spacing: 0%; 
+    
+}
+
+.style_livecourse{
+    -webkit-text-stroke: 0.85px white;
+    color: transparent;
+    font-size: 42px;
+    padding: 0%;
+    border-spacing: 0%;
+}
